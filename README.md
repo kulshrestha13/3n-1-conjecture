@@ -1,1 +1,1 @@
-"# 3n-1-conjecture" 
+This is an attempt to establish a relation between a number and its corresponding number of steps to reach 1 in line with 3n+1 conjecture. This is done using neural network implemented on pytorch. Data has been generated in "3n conjecture.py" and trainig has been done in "training.py"
