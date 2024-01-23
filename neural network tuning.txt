@@ -1,0 +1,25 @@
+ways to give input-
+
+conversion to float
+logarithm
+binary representation - both individaul digits
+hash function
+
+
+no. of epochs
+batch size
+
+Architecture-
+
+no. of layers and neurons, dimensions
+drop layers
+Activation function- Relu,tanh,sigmoid, Leaky Relu, PRelu, Linear activation for output layer
+
+
+Loss fn-  MSE, MAE, Huber loss
+optimizer - SGD, Adam
+
+Data increase from 1 million(10 lakh)
+
+
+maximum steps, factors, 5 point summary, variance, std. deviation
